@@ -58,7 +58,7 @@ a{
   text-align: center;
   background-color: #9ED2C6;
 }
-.profile{
+.profile, .about{
   margin: auto;
   width: 30%;
 }
@@ -67,7 +67,7 @@ a{
   text-align: left;
   width: 50%;
 }
-.code-img{
+.code-img, .learner-img{
   float: left;
   width: 25%;
   margin-right: 50px;
