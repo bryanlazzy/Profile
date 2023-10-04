@@ -55,9 +55,19 @@ a{
   text-align: center;
   background-color: #9ED2C6;
 }
-.profile, .about{
-  margin: auto;
-  width: 30%;
+.profile-and-about{
+  display: flex;
+  justify-content: space-between; /* Adjust as needed */
+  align-items: flex-start;
+  text-align: left;
+}
+.dp-img{
+  margin-right: 50px;
+  margin-left: 30px;
+}
+
+.skills{
+  text-align: center;
 }
 .skill-row{
   margin: 80px auto;
